@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
+  <diagram name="Page-1" id="r9n-8vzvmh9eZxPcH708">
+    <mxGraphModel dx="868" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yJb0erIYbC3wQnndg5Nq-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yJb0erIYbC3wQnndg5Nq-1" target="yJb0erIYbC3wQnndg5Nq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yJb0erIYbC3wQnndg5Nq-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="35" y="18" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yJb0erIYbC3wQnndg5Nq-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yJb0erIYbC3wQnndg5Nq-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yJb0erIYbC3wQnndg5Nq-3" value="User logs in&amp;nbsp;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="20" y="130" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yJb0erIYbC3wQnndg5Nq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yJb0erIYbC3wQnndg5Nq-6" target="yJb0erIYbC3wQnndg5Nq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yJb0erIYbC3wQnndg5Nq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yJb0erIYbC3wQnndg5Nq-6" target="yJb0erIYbC3wQnndg5Nq-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yJb0erIYbC3wQnndg5Nq-6" value="If Patient&amp;nbsp;&lt;div&gt;logged in&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="35" y="261" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yJb0erIYbC3wQnndg5Nq-8" value="Display Patient Dashboard With Ability to on/off GPS Feature and View&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="271" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yJb0erIYbC3wQnndg5Nq-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yJb0erIYbC3wQnndg5Nq-10" target="yJb0erIYbC3wQnndg5Nq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yJb0erIYbC3wQnndg5Nq-10" value="Display Caregiver Dashboard and Receive Alerts" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="25" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yJb0erIYbC3wQnndg5Nq-11" value="Stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="35" y="580" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yJb0erIYbC3wQnndg5Nq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yJb0erIYbC3wQnndg5Nq-8" target="yJb0erIYbC3wQnndg5Nq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

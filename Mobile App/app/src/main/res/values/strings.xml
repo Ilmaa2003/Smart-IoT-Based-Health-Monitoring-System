@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WatchApp</string>
+    <string name="heart_rate">Heart Rate</string>
+</resources>

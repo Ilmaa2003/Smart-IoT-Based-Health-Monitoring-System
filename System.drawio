@@ -1,0 +1,186 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Page-1" id="6EFixnBbDPSqF9TyHLz3">
+    <mxGraphModel dx="1500" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LV8GaCUOXe0nNPkoWkQV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LV8GaCUOXe0nNPkoWkQV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LV8GaCUOXe0nNPkoWkQV-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="45" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LV8GaCUOXe0nNPkoWkQV-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="190" as="sourcePoint" />
+            <mxPoint x="95" y="241" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LV8GaCUOXe0nNPkoWkQV-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.019;entryY=0.62;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="282.90000000000003" y="303" as="targetPoint" />
+            <mxPoint x="155" y="302.0666666666666" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LV8GaCUOXe0nNPkoWkQV-79" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="155" y="272" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-1" value="Emergency&amp;nbsp;&lt;div&gt;Button&amp;nbsp;&lt;/div&gt;&lt;div&gt;Pressed using &lt;br&gt;app?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="35" y="242" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HxvrHkyfve6ArNUBR3jT-2" target="HxvrHkyfve6ArNUBR3jT-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-2" value="Trigger Emergency Alert" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="45" y="415" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-3" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="93" y="358" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="94.52" y="362" as="sourcePoint" />
+            <mxPoint x="94.52" y="413" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HxvrHkyfve6ArNUBR3jT-6" target="HxvrHkyfve6ArNUBR3jT-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-6" value="Turn on the&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Buzzer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="45" y="517" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HxvrHkyfve6ArNUBR3jT-8" target="HxvrHkyfve6ArNUBR3jT-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-8" value="Send Alert to&lt;div&gt;&amp;nbsp;Firebase&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="35" y="627" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HxvrHkyfve6ArNUBR3jT-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="867" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-10" value="Send Push Notification to Caregiver" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="35" y="738" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HxvrHkyfve6ArNUBR3jT-11" target="HxvrHkyfve6ArNUBR3jT-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-11" value="Wait and&lt;div&gt;&amp;nbsp;Repeat&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="46" y="867" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-12" value="Stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="46" y="1015" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-13" value="Initialize&amp;nbsp;&lt;div&gt;NodeMCU, Sensors,&amp;nbsp;&lt;/div&gt;&lt;div&gt;LEDs,&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Buzzer&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="45" y="130" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HxvrHkyfve6ArNUBR3jT-14" target="HxvrHkyfve6ArNUBR3jT-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-14" value="SpO2, Heart&amp;nbsp;&lt;div&gt;Rate, Gas,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Sound, location&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="260" y="369" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="331" y="319" as="sourcePoint" />
+            <mxPoint x="331.40000000000003" y="369" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-16" value="Collect Sensor Data" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="283" y="276" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HxvrHkyfve6ArNUBR3jT-17" target="HxvrHkyfve6ArNUBR3jT-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-17" value="Send Data to&amp;nbsp;&lt;div&gt;Firebase Cloud&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="450" y="369" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HxvrHkyfve6ArNUBR3jT-18" target="HxvrHkyfve6ArNUBR3jT-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-18" value="Display Data&amp;nbsp;&lt;div&gt;on&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Mobile App&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="640" y="369" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HxvrHkyfve6ArNUBR3jT-19" target="HxvrHkyfve6ArNUBR3jT-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-19" value="Any Abnormal Conditions" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="650" y="492" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HxvrHkyfve6ArNUBR3jT-20" target="HxvrHkyfve6ArNUBR3jT-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="542" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-20" value="Trigger Automatic Alert" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="449" y="517" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sFo9GszuXqypHjX3Flrm-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HxvrHkyfve6ArNUBR3jT-21" target="HxvrHkyfve6ArNUBR3jT-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-21" value="Turn on the Buzzer and send push nortification to attend" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="660" y="910" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sFo9GszuXqypHjX3Flrm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HxvrHkyfve6ArNUBR3jT-22" target="HxvrHkyfve6ArNUBR3jT-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-22" value="Continue Monitoring" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1020" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HxvrHkyfve6ArNUBR3jT-25" target="HxvrHkyfve6ArNUBR3jT-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-25" value="Turn on the Buzzer&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="270" y="628" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyf3xycdqO2iyvGUYvK5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HxvrHkyfve6ArNUBR3jT-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-27" value="Send Push Notification to Caregiver" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="260" y="726" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-29" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="710" y="586" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-45" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="610" y="511" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HxvrHkyfve6ArNUBR3jT-48" target="HxvrHkyfve6ArNUBR3jT-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HxvrHkyfve6ArNUBR3jT-48" value="Wait and Repeat" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="260" y="1020" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sFo9GszuXqypHjX3Flrm-1" value="If Cough&amp;nbsp;&lt;div&gt;Detected&amp;nbsp;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="650" y="636" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sFo9GszuXqypHjX3Flrm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sFo9GszuXqypHjX3Flrm-2" target="HxvrHkyfve6ArNUBR3jT-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sFo9GszuXqypHjX3Flrm-2" value="Measure heart Rate, Vibration and Sound Through Sensors" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="660" y="786" width="100" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="sFo9GszuXqypHjX3Flrm-4" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="711" y="729" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sFo9GszuXqypHjX3Flrm-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="709" y="734" as="sourcePoint" />
+            <mxPoint x="709" y="801" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sFo9GszuXqypHjX3Flrm-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="591" as="sourcePoint" />
+            <mxPoint x="710" y="636" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
