@@ -2,13 +2,11 @@
 
 An intelligent, real-time health monitoring solution powered by **ESP32**, seamlessly integrated with **biometric sensors** and **Firebase**. Designed with a mobile-first mindset, this project enables remote health tracking via a **custom-built Android application**.
 
-> Stay connected with your vitals — anytime, anywhere.
+![IoT System Image](https://raw.githubusercontent.com/Ilmaa2003/Smart-IoT-Based-Health-Monitoring-System/main/Images/01.jpg)
 
-![System Overview](https://raw.githubusercontent.com/AmjadAzward/IoT-Coursework-HNDSE24.2F-Group-03/main/Images/01.jpg)
+![IoT System Image](https://raw.githubusercontent.com/Ilmaa2003/Smart-IoT-Based-Health-Monitoring-System/main/Images/02.jpg)
 
-![Working Demo](https://raw.githubusercontent.com/AmjadAzward/IoT-Coursework-HNDSE24.2F-Group-03/main/Images/02.jpg)
-
-![Firebase View](https://raw.githubusercontent.com/AmjadAzward/IoT-Coursework-HNDSE24.2F-Group-03/main/Images/03.jpg)
+![IoT System Image](https://raw.githubusercontent.com/Ilmaa2003/Smart-IoT-Based-Health-Monitoring-System/main/Images/03.jpg)
 
 ---
 
